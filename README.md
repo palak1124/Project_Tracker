@@ -1,12 +1,16 @@
 # Project_Tracker
 Description:
+
 The Project Tracker is a comprehensive tool designed to manage and monitor project activities, assignments, timelines, and progress. This tool facilitates effective project management by providing a clear and structured way to track each task from inception to completion.
 
 Features:
 
 Activity Logging: Detailed descriptions of all project activities.
+
 Assignment Tracking: Identifies responsible team members for each activity.
+
 Timeline Management: Start and end dates for each task, along with duration.
+
 Progress Monitoring: Current status and percentage completion of activities.
 
 ## Project Tracker Conditional Formatting:
